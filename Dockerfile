@@ -1,3 +1,5 @@
+FROM ubuntu:18.04
+
 FROM node
 
 COPY . /app
